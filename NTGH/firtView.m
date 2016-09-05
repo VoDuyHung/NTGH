@@ -78,9 +78,6 @@
     NSString * tit3 = [tmpdict objectForKeyedSubscript:title];
     NSString * url3 = [tmpdict objectForKeyedSubscript:urls];
     
-    //Get url image
-    NSUserDefaults * UD = [NSUserDefaults standardUserDefaults];
-    
     data = [[NSArray alloc]init];
     url = [url stringByReplacingOccurrencesOfString:@"/" withString:@"_"];
     NSURL *jsonURL1 = [NSURL URLWithString:[NSString stringWithFormat:@"http://mic.duytan.edu.vn:88/SmartGardenAPI.svc/NTGHGetImage/%@",url]];

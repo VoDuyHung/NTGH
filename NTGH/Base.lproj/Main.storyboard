@@ -199,12 +199,12 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="CFW-pf-R5K" firstAttribute="top" secondItem="Pe2-Lg-0Sf" secondAttribute="bottom" id="2Ld-tY-AI7"/>
-                            <constraint firstItem="Yvk-qx-XSZ" firstAttribute="leading" secondItem="V5a-5N-Zte" secondAttribute="leadingMargin" constant="-20" id="4B0-qx-P9m"/>
+                            <constraint firstItem="Yvk-qx-XSZ" firstAttribute="leading" secondItem="V5a-5N-Zte" secondAttribute="leadingMargin" constant="-24" id="4B0-qx-P9m"/>
                             <constraint firstAttribute="trailing" secondItem="Pe2-Lg-0Sf" secondAttribute="trailing" id="8pI-c8-Da1"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="Yvk-qx-XSZ" secondAttribute="trailing" constant="-20" id="ZLK-8f-m76"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="Yvk-qx-XSZ" secondAttribute="trailing" constant="-24" id="ZLK-8f-m76"/>
                             <constraint firstItem="Pe2-Lg-0Sf" firstAttribute="top" secondItem="V5a-5N-Zte" secondAttribute="top" id="byK-sI-zXK"/>
                             <constraint firstItem="Pe2-Lg-0Sf" firstAttribute="leading" secondItem="V5a-5N-Zte" secondAttribute="leading" id="e7D-DW-Avw"/>
-                            <constraint firstItem="Yvk-qx-XSZ" firstAttribute="top" secondItem="1aN-JH-dPe" secondAttribute="bottom" constant="-20" id="kM5-rU-572"/>
+                            <constraint firstItem="Yvk-qx-XSZ" firstAttribute="top" secondItem="1aN-JH-dPe" secondAttribute="bottom" constant="-44" id="kM5-rU-572"/>
                             <constraint firstItem="CFW-pf-R5K" firstAttribute="top" secondItem="Yvk-qx-XSZ" secondAttribute="bottom" id="mXS-LZ-pRF"/>
                         </constraints>
                     </view>
